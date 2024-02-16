@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7a9f94872d10977f6bf9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CTunes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CTunes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CTunes-Debug-3887fd169b05c65d5fa4.json",
+					"name" : "CTunes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CTunes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CTunes_autogen-Debug-2ce37525b703fa762388.json",
+					"name" : "CTunes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CTunes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CTunes_autogen_timestamp_deps-Debug-7a31b256c53cd2ea2eea.json",
+					"name" : "CTunes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Documents/build-CTunes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Admin/Documents/CTunes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
